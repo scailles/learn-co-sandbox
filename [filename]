@@ -1,0 +1,4 @@
+I'm printing to the screen
+contacts={"jon"=>name:"Jon",email:"snow@email", ice_cream:["chocolate", "vanilla"]}
+
+contacts["jon"][:ice_cream]
